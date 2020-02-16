@@ -15,7 +15,6 @@ def hopper
         }
      }
   return hopper[:grace_hopper]
-  return hopper[:grace_hopper][:languages]
 end
 
 
